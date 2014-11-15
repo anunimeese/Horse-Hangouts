@@ -1,0 +1,13 @@
+{
+  "name": "horsehangouts",
+  "version": "0.0.1",
+  "dependencies": {
+    "hangouts-bot": "0.1.x",
+    "express": "3.1.x",
+    "node-persist": "0.0.2"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  }
+}
