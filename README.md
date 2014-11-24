@@ -1,7 +1,7 @@
 Horse-Hangouts
 ==============
 
-A horse-themed hangouts bot built on node.js
+A horse-themed hangouts bot built on [node.js](http://dankmeme.com)
 
 
-Super messy code, but works.
+Super [dank](http://niceme.me) code, but works.
